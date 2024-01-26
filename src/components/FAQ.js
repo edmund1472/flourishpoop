@@ -12,7 +12,7 @@ export default function FAQ(){
                     hidden: "true",
                     opacity: 0
                 }}
-                whileInView={{  
+                whileInView={{
                     x: 0,
                     opacity: 1,
                     scale: 1

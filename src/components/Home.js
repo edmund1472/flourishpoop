@@ -36,9 +36,9 @@ export default function Home(){
 
                 <div className="flex flex-wrap w-[50%] max-md:w-[100%] rounded-2xl grid-cols-2  overflow-hidden max-md:justify-center ">
                     <img className="object-cover w-[40%] h-[w-[40%]] max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl11.jpg"></img>
-                    <img className="object-cover w-[40%] h-[w-[40%]]max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl2.jpg"></img>
-                    <img className="object-cover w-[40%] h-[w-[40%]] max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl3.jpg"></img>
-                    <img className="object-cover w-[40%] h-[w-[40%]] max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl4.jpg"></img>
+                    <img className="object-cover w-[40%] h-[w-[40%]]max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl12.jpeg"></img>
+                    <img className="object-cover w-[40%] h-[w-[40%]] max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl13.jpeg"></img>
+                    <img className="object-cover w-[40%] h-[w-[40%]] max-md:w-[175px] max-md:h-[175px] col-span-1"  src="girl14.jpeg"></img>
                 </div>
             </motion.div>
         </main>
